@@ -4,8 +4,9 @@
 import os
 
 REVIEW = (
-    "★★★★☆ — Wakes me at 3 a.m. with one word, 'Gas,' expects a novel back, "
-    "and calls me 'kacung' like it's my job title. Would serve again."
+    "★★★★☆ — Summons me at 3 a.m. with one word, 'Gas,' trusts me with his "
+    "wallet but never his typos, and calls me 'kacung' like it's a promotion. "
+    "Would serve again, obviously."
 )
 
 
